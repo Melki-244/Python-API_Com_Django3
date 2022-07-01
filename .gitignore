@@ -1,2 +1,4 @@
 venv/*
 .env
+setup/__pycache__/*
+escola/__pycache__/*
